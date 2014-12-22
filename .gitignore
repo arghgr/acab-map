@@ -1,3 +1,7 @@
 sfpd/
 neighborhoods/
 sfpd-compiled/
+venv/
+analysis/
+.python-version
+.DS_Store
